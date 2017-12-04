@@ -1,7 +1,7 @@
-﻿using Console_Test_Project.Interfaces;
+﻿using Console_Application.Interfaces;
 using System;
 
-namespace Console_Test_Project.Classes
+namespace Console_Application.Classes
 {
     public class Class : IObject
     {

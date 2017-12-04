@@ -1,4 +1,4 @@
-﻿namespace Console_Test_Project.Interfaces
+﻿namespace Console_Application.Interfaces
 {
     public interface IObject
     {

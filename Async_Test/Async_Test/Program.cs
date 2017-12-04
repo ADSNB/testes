@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 using static System.IO.File;
 
-namespace Async_Test
+namespace Async
 {
     class Program
     {

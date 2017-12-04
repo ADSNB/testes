@@ -1,16 +1,14 @@
 ﻿using System;
-using Console_Test_Project.Interfaces;
-using Console_Test_Project.Classes;
+using Console_Application.Interfaces;
+using Console_Application.Classes;
 using System.Data;
 
-namespace Console_Test_Project
+namespace Console_Application
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-
             //var dt = null;
             //var dt = new Class();
             //IObject dt = new Class();
