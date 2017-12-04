@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_Application", "Console_Test_Project\Console_Application.csproj", "{59C23CB4-57BA-48AF-9A41-B648B384578E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_Application", "Console_Application\Console_Application.csproj", "{59C23CB4-57BA-48AF-9A41-B648B384578E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async", "Async_Test\Async_Test\Async.csproj", "{7A938261-60A1-470E-A4AD-551BB14B4321}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async", "Async\Async.csproj", "{7A938261-60A1-470E-A4AD-551BB14B4321}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
